@@ -6,7 +6,7 @@ How can I get 1.0 grade?
 
 ## Requirements:
 
-0. __Clean Code:__ Use 'TODO'. No code formatting? // -0.3 in addition to the grade
+0. __Clean Code:__ Use 'eclipse-java-google-style.xml'. No code formatting? // -0.3 in addition to the grade
 1. __Clean Checkstyle:__ Use 'google_checks.xml'. CheckStyle still has errors!? // -0.3 in addition to the grade
 2. __Clean PMD:__ Use 'TODO'. Still has errors? // -0.3 in addition to the grade
 3. __Clean FindBugs:__ still has errors? // -0.3 in addition to the grade
@@ -18,3 +18,5 @@ How can I get 1.0 grade?
 9. __Clean Logging:__ System.out.println() for logging instead of Log4J? // -0.3 in addition to the grade
 
 Still have questions?
+
+- https://google.github.io/styleguide/javaguide.html

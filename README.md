@@ -9,7 +9,7 @@ How can I get 1.0 grade?
 0. __Clean Code:__ Use Google style guide 'eclipse-java-google-style.xml' (Eclipse configuration). No code formatting!? // -0.3 in addition to the grade
 1. __Clean Checkstyle:__ Use 'google_checks.xml'. CheckStyle still has warnings or errors!? // -0.3 in addition to the grade
 2. __Clean PMD:__ Use 'pmd-custom-ruleset.xml'. Still has warnings or errors!? // -0.3 in addition to the grade
-3. __Clean SpotBugs:__ StopBugs still has warnings or errors!? // -0.3 in addition to the grade
+3. __Clean SpotBugs:__ SpotBugs still has warnings or errors!? // -0.3 in addition to the grade
 4. __Clean Maven Build:__ 'mvn clean install' still has errors!? // -0.3 in addition to the grade
 5. __Clean GIT:__ github contains generated stuff, eclipse configuration files, log files? // -0.3 in addition to the grade
 6. __Clean JUnit + JUnit Lifecycle:__ JUnit without Assertions!? JUnit Lifecycle with empty methods!? // -0.3 in addition to the grade

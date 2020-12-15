@@ -12,7 +12,7 @@ How can I get 1.0 grade?
 3. __Clean SpotBugs:__ StopBugs still has warnings or errors!? // -0.3 in addition to the grade
 4. __Clean Maven Build:__ 'mvn clean install' still has errors!? // -0.3 in addition to the grade
 5. __Clean GIT:__ github contains generated stuff, eclipse configuration files, log files? // -0.3 in addition to the grade
-6. __Clean JUnit + JUnit Lifecycle:__ JUnit Lifecycle empty!? // -0.3 in addition to the grade
+6. __Clean JUnit + JUnit Lifecycle:__ JUnit without Assertions!? JUnit Lifecycle with empty methods!? // -0.3 in addition to the grade
 7. __Clean Mocking:__ Mockito has no examples at all!? // -0.3 in addition to the grade
 8. __Clean Maven Directory and Files Structure:__ Properties are still in /src/main/java or JUnit Tests are still in /src/main/java!? // -0.3 in addition to the grade
 9. __Clean Logging:__ System.out.println() or e.printStackTrace() for logging instead of Log4J!? // -0.3 in addition to the grade

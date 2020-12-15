@@ -15,7 +15,7 @@ How can I get 1.0 grade?
 6. __Clean JUnit + JUnit Lifecycle:__ JUnit Lifecycle empty? // -0.3 in addition to the grade
 7. __Clean Mocking:__ Mockito has NO examples at all? // -0.3 in addition to the grade
 8. __Clean Maven Structure:__ Properties still in /src/main/java? JUnit Tests still in /src/main/java? // -0.3 in addition to the grade
-9. __Clean Logging:__ System.out.println() for logging instead of Log4J? // -0.3 in addition to the grade
+9. __Clean Logging:__ System.out.println() or e.printStackTrace() for logging instead of Log4J? // -0.3 in addition to the grade
 
 Still have questions?
 

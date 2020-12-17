@@ -1,6 +1,6 @@
 # Albstadt-Sigmaringen University: WPM Professionelle Java Entwicklung
 
-Practical Work: Write JEE or JSE Weather Application. It doesn't matter, what the application will do. It's matter, __how__ you will write it.
+Practical Work: Write JEE or JSE Weather Application. It doesn't matter, what the application will do. But it's matter, __how__ you will create it.
 
 Common Question: How to get 1.0 grade?
 

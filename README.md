@@ -1,10 +1,11 @@
-# Albstadt-Sigmaringen University: WPM Professionelle Java Entwicklung
+# Albstadt-Sigmaringen University
+## Lecture: Professional Java Development / WPM Professionelle Java Entwicklung
 
-Practical Work: Write JEE or JSE Weather Application. It doesn't matter, what the application will do. But it's matter, __how__ you will create it.
+Practical Work: Write JEE or JSE Weather Application. It doesn't matter, what the application will do. But it's matter, __how__ you will create it. And please write more than just 1 line of code, be creative.
 
 Common Question: How to get 1.0 grade?
 
-## Requirements:
+### Requirements:
 
 0. __Clean Code:__ Use Google style guide 'eclipse-java-google-style.xml' (Eclipse configuration). No code formatting!? // -0.3 in addition to the grade
 1. __Clean Checkstyle:__ Use 'google_checks.xml'. CheckStyle still has warnings or errors!? // -0.3 in addition to the grade
